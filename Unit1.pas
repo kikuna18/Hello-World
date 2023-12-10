@@ -27,6 +27,7 @@ implementation
 procedure TForm1.Button1Click(Sender: TObject);
 begin
   ShowMessage('Feature-B');
+  ShowMessage('Feature-C');
 end;
 
 end.
