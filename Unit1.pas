@@ -28,6 +28,7 @@ procedure TForm1.Button1Click(Sender: TObject);
 begin
   ShowMessage('Feature-B');
   ShowMessage('Feature-C');
+  ShowMessage('Feature-D');  (* 2023.12.10V‚½‚È‹@”\‚ğ’Ç‰Á *)
 end;
 
 end.
