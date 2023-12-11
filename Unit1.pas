@@ -29,6 +29,7 @@ begin
   ShowMessage('Feature-B');
   ShowMessage('Feature-C');
   ShowMessage('Feature-D');  (* 2023.12.10V‚½‚È‹@”\‚ğ’Ç‰Á *)
+  ShowMessage('Feature-E');
 end;
 
 end.
